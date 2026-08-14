@@ -1,0 +1,14 @@
+{
+  "name": "Form90",
+  "short_name": "Form90",
+  "description": "Трекер 16-недельной программы Full Body A/B/C",
+  "start_url": "./#today",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ru",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
